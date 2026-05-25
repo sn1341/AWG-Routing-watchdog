@@ -4,7 +4,7 @@
 > который в свою очередь является форком [isultanov99/amnezia-warp-host-routing](https://github.com/isultanov99/amnezia-warp-host-routing).
 >
 > Основное дополнение этого форка — встроенный **Routing Watchdog**: автоматическое восстановление маршрутизации при потере правил iptables или policy routing.
-
+WATCHDOG ставится автоматически 
 ---
 
 ## Что делает скрипт
