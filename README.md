@@ -91,10 +91,11 @@ Containers
 
 1) Install WARP and route all detected containers
 2) Install or refresh routing for AWG v2 only
-3) Install routing watchdog          ← новый пункт
+3) Remove routing watchdog
 4) Remove everything configured by this script
-5) Show status
-6) Exit
+5) Remove AWG v2 routing
+6) Show status
+7) Exit
 ```
 
 ---
